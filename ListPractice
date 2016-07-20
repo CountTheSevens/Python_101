@@ -1,0 +1,6 @@
+spam = ['cat', 'rat', 'bat', 'snake']
+print(spam)
+#print(spam[1:3])
+#print(len(spam))
+spam[1]='panther'
+print(spam)
