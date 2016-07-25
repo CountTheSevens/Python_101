@@ -18,5 +18,6 @@ print("Center Justify:")
 print(myString.center(30, '='))
 
 
+
 # Print string vertically
 
